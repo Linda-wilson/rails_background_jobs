@@ -77,3 +77,6 @@ group :test do
   gem "selenium-webdriver"
 
 end
+gem "sidekiq"
+gem "sidekiq-failures", "~> 1.0"
+
